@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: sanders.life
+Token: a5dde18e9212fe112afb0bcea8894fb195021562895d678a550edcbd49e26e5b
